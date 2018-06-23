@@ -1,0 +1,5 @@
+---
+applications:
+- name: my-binding-test-app
+  memory: 32M
+  instances: 1
